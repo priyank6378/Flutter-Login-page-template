@@ -1,4 +1,4 @@
-# google_login_learning
+# Project Template
 
 A new Flutter project.
 
